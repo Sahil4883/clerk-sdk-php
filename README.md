@@ -121,7 +121,6 @@ Use the [authenticateRequest](https://github.com/clerk/clerk-sdk-php/tree/main/s
 use GuzzleHttp\Psr7\Request;
 use Clerk\Backend\Helpers\Jwks\AuthenticateRequestOptions;
 use Clerk\Backend\Helpers\Jwks\AuthenticateRequest;
-use Clerk\Backend\Helpers\Jwks\RequestState;
 
 class UserAuthentication
 {
